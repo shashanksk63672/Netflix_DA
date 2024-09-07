@@ -142,7 +142,7 @@ order by 2 desc
 ```
 **Objective:** Calculate and rank years by the average number of content releases by India.
 
-### 15. Categorize Content Based on the Presence of 'Kill' and 'Violence' Keywords
+### 11. Categorize Content Based on the Presence of 'Kill' and 'Violence' Keywords
 ```sql
 with new_table
 as (
