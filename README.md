@@ -169,3 +169,6 @@ group by 1
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+# Netflix Movies and TV Shows Data Analysis using Power BI
+![](https://github.com/shashanksk63672/Netflix_DA/blob/main/Power%20BI%20.png)
